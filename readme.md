@@ -1,8 +1,11 @@
 # <Az app neve>: <az ötlet egy mondatban>
 
-Hallgató: <a neved>  ·  Platform: <iOS | Android | reszponzív web>
+Hallgató: David Melanie Erika  ·  Platform: <iOS | Android | reszponzív web>
+
 Figma tervfájl: <link, "anyone with the link can view">
+
 FigJam kutatási tábla: <link, "anyone with the link can view">
+
 Prototípus: <link, a 6. lépésből>
 
 ## Az ötlet egy mondatban
