@@ -6,7 +6,7 @@ programokat, hogy egy igényes, kártyás felületen könnyedén átlásd a napo
 
 ## Kinek szól
 - Felhasználói csoport: bárki, aki szeretné átláthatóbban és igényesebben tervezni a mindennapi teendőit és programjait
-- Hol találok közülük ötöt: szemináriumi csoportom, egyetemi csoporttársak, barátok, ismerősök, család
+- Hol találok közülük ötöt: barátok, ismerősök, család
 - Eszköz és helyzet: telefon és laptop, reggeli/esti átfutás vagy napközbeni gyors tervezés és áttekintés
 
 ## A probléma (a hipotézisem)
