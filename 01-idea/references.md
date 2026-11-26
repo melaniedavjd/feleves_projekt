@@ -35,7 +35,7 @@
 - Miért illik az appomhoz: így a napi tervezés nem érződik száraz, munkahelyi naptárnak
 
 ### 7. Instagram · gyors létrehozás · instagram.com
-![Instagram minta](img/ref-instagram-minta.png)
+![Instagram minta](img/minta-instagram.jpg)
 - A minta: egyetlen, azonnal kéznél lévő gomb az új elem felvételéhez
 - Miért illik az appomhoz: gyorsan fel tudsz venni egy teendőt vagy programot felesleges kattintások nélkül
 
