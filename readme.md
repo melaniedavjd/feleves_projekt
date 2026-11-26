@@ -9,11 +9,11 @@ FigJam kutatási tábla: <link, "anyone with the link can view">
 Prototípus: <link, a 6. lépésből>
 
 ## Az ötlet egy mondatban
-A NoteCatcher segít azoknak, akik zenefelismerőt és saját lejátszási listákat használnak, hogy a felismert dalt egyetlen folyamatban a megfelelő listájukba vagy magában elmentsék, amikor útközben vagy otthon hallanak egy jó számot amit nem ismernek vagy régen hallottak és nem emlékeznek a címükre, és nem akarják, hogy elvesszen az előzményekben.
+Az app segít abban, hogy egy letisztult, vizuálisan rendezett felületen gyorsan és átláthatóan összerakják a napi teendőiket és programjaikat.
 
 ## Állapot
 - [x] 1. lépés · Ötlet és referenciák (határidő: 2. alkalom)
-- [ ] 2. lépés · Benchmark és interjúk (határidő: 3. alkalom)
+- [x] 2. lépés · Benchmark és interjúk (határidő: 3. alkalom)
 - [ ] 3. lépés · Insightok, perszóna, journey map, probléma (határidő: 4. alkalom)
 - [ ] 4. lépés · Koncepció, oldaltérkép, user flow, drótvázak (határidő: 5. alkalom)
 - [ ] 5. lépés · UI kit, képernyők, heurisztikus értékelés (határidő: 6. alkalom)
