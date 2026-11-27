@@ -1,6 +1,8 @@
 # Napirend tervező
 
-Hallgató: David Melanie Erika  ·  Platform: <reszponzív web>
+Hallgató: David Melanie Erika
+
+Platform: reszponzív web
 
 Figma tervfájl: <link, "anyone with the link can view">
 
