@@ -6,7 +6,7 @@ Platform: reszponzív web
 
 Figma tervfájl: <link, "anyone with the link can view">
 
-FigJam kutatási tábla: <link, "anyone with the link can view">
+FigJam kutatási tábla: https://www.figma.com/board/DXDBc6eemxEIbbXNlrYlHK/Portfolio?node-id=0-1&t=J2nRwbNBbNo3Mygv-1
 
 Prototípus: <link, a 6. lépésből>
 
