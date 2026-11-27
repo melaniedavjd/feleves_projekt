@@ -1,7 +1,7 @@
-# 02-research/benchmark.md
+# Benchmark
 
-A fő feladat, amelyet teszteltem: gyorsan felvinni és átlátni a mai teendőket és programokat
-Eszköz és szélesség: iPhone 17 Pro Max, Appban
+## A fő feladat, amelyet teszteltem: gyorsan felvinni és átlátni a mai teendőket és programokat
+### Eszköz és szélesség: iPhone 17 Pro Max, Appban
 
 | | A: Apple Naptár | B: Google Naptár | C: Howbout |
 | Koppintás célig | 4 | 4 | 4 |

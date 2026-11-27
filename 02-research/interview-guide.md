@@ -1,5 +1,5 @@
 # Interjúvezető · 15-20 perc
-Téma: hogyan tervezik és látják át a napi teendőiket és programjaikat az emberek. Az interjú alatt soha nem említem az appötletemet.
+### Téma: hogyan tervezik és látják át a napi teendőiket és programjaikat az emberek. Az interjú alatt soha nem említem az appötletemet.
 
 1. Köszönöm, hogy időt szánsz rám. Azt kutatom, hogyan tervezed és látod át a napi teendőidet és programjaidat. Nincs rossz válasz.
 2. Jegyzetelhetek? A nevedet nem írom le. Bármikor abbahagyhatjuk.

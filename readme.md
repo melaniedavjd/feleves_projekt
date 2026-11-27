@@ -1,4 +1,4 @@
-# <Napirend tervező>
+# Napirend tervező
 
 Hallgató: David Melanie Erika  ·  Platform: <reszponzív web>
 
