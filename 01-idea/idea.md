@@ -1,4 +1,4 @@
-# Munkacím: <Napirend tervező>
+# Napirend tervező
 
 ## Az ötlet egy mondatban
 Az app segít átláthatóbban és letisztultabban megszervezni a napi teendőket és
@@ -14,4 +14,6 @@ programokat, hogy egy igényes, kártyás felületen könnyedén átlásd a napo
 Akkor van igazam, ha az interjúkon arról mesélnek, hogy a naptáruk mellett külön jegyzeteket vagy listákat is használnak, vagy nehezen látják át egyben a napjukat.
 
 ## Out of scope
-1. közös / csapatos naptár és megosztás   2. értesítések   3. külső naptárak kétirányú szinkronizálása
+1. közös / csapatos naptár és megosztás
+2. értesítések
+3. külső naptárak kétirányú szinkronizálása

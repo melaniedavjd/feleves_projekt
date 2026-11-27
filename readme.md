@@ -1,4 +1,4 @@
-# <Az app neve>: <az ötlet egy mondatban>
+# <Napirend tervező>
 
 Hallgató: David Melanie Erika  ·  Platform: <reszponzív web>
 
